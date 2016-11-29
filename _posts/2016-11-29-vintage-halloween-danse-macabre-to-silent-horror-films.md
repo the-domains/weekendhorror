@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-29T00:42:24.625Z'
+datePublished: '2016-11-29T01:03:14.596Z'
 sourcePath: _posts/2016-11-29-vintage-halloween-danse-macabre-to-silent-horror-films.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,7 +8,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-29T00:42:24.040Z'
+dateModified: '2016-11-29T01:03:14.088Z'
 title: ''
 app_links: []
 publisher: {}
