@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-29T00:50:43.205Z'
+datePublished: '2016-11-29T01:25:20.392Z'
 sourcePath: _posts/2016-11-28-come-arrivare.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-29T00:50:42.714Z'
+dateModified: '2016-11-29T01:03:14.088Z'
 title: Come Arrivare
 publisher: {}
 description: >-
