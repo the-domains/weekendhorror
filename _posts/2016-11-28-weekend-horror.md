@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-29T00:53:47.443Z'
+datePublished: '2016-11-29T01:03:14.601Z'
 sourcePath: _posts/2016-11-28-weekend-horror.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-11-29T00:53:46.654Z'
+dateModified: '2016-11-29T01:03:14.088Z'
 title: Weekend Horror
 publisher: {}
 description: >-
