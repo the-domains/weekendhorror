@@ -1,9 +1,10 @@
-typography_spectrum: 0.5693803325354463
+layout_spectrum: 0.6278504354794426
+typography_spectrum: 0.014731563590743606
 color:
-  brandStrength: 0.837166400561017
-  lightness: 0.3554410421704449
-  saturation: 0.11044484720980324
-  rhythmicContrast: 0.9754623244242687
+  brandStrength: 0.8335080422144752
+  lightness: 0.3544301879698281
+  saturation: 0.11922407657322981
+  rhythmicContrast: 0.9797870295221852
   brandColors:
     - '#000000'
     - '#404040'
@@ -11,7 +12,6 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
 github: true
-layout_spectrum: 0.5431606349333347
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b71608b0-7ef3-4f24-81aa-a6095b213d3b.png
 name: WeekendHorror
