@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-29T00:43:15.926Z'
+datePublished: '2016-11-29T00:50:43.205Z'
 sourcePath: _posts/2016-11-28-come-arrivare.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-29T00:43:15.387Z'
+dateModified: '2016-11-29T00:50:42.714Z'
 title: Come Arrivare
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ description: >-
   in tutto il mondo come una delle case stregate più famose.
 starred: false
 url: come-arrivare/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Come Arrivare
