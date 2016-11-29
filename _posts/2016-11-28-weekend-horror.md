@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-29T00:49:05.164Z'
+datePublished: '2016-11-29T00:53:47.443Z'
 sourcePath: _posts/2016-11-28-weekend-horror.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-11-29T00:49:04.326Z'
+dateModified: '2016-11-29T00:53:46.654Z'
 title: Weekend Horror
 publisher: {}
 description: >-
@@ -17,7 +17,6 @@ _type: Blurb
 
 ---
 # Weekend Horror
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a318680-c7a3-4034-85c2-73b7753b2c4b.jpg)
 
 In una casa i mezzo al bosco dove nessuno può sentirvi gridare, Survival Chronicles, Convivio Ludico e la Lega Italiana Real Vampire vi invitano al vostro Ultimo Weekend.
 
