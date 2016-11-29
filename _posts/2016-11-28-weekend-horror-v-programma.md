@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-29T00:42:24.645Z'
+datePublished: '2016-11-29T01:03:04.499Z'
 sourcePath: _posts/2016-11-28-weekend-horror-v-programma.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-29T00:42:24.040Z'
+dateModified: '2016-11-29T01:01:37.453Z'
 title: Weekend Horror V - Programma
 publisher: {}
 description: >-
@@ -19,8 +19,6 @@ _type: Blurb
 # Weekend Horror V - Programma
 
 Scoprite con noi i dettagli dell'edizione 2016 del Weekend Horror ed i nostri ospiti d'eccezione.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/686c4899-1f52-4f43-bce7-5e5c79705faf.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36668ae3-ea7d-4a6a-a722-8cac6be12493.jpg)
 
 ---
 
