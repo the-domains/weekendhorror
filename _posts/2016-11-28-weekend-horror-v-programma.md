@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-29T01:03:04.499Z'
+datePublished: '2016-11-29T01:25:22.357Z'
 sourcePath: _posts/2016-11-28-weekend-horror-v-programma.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-29T01:01:37.453Z'
+dateModified: '2016-11-29T01:03:14.088Z'
 title: Weekend Horror V - Programma
 publisher: {}
 description: >-
