@@ -1,4 +1,3 @@
-layout_spectrum: 0.6278504354794426
 typography_spectrum: 0.014731563590743606
 color:
   brandStrength: 0.8335080422144752
@@ -12,6 +11,7 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
 github: true
+layout_spectrum: 0.6278504354794426
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b71608b0-7ef3-4f24-81aa-a6095b213d3b.png
 name: WeekendHorror
