@@ -1,0 +1,36 @@
+typography_spectrum: 0.5693803325354463
+color:
+  brandStrength: 0.837166400561017
+  lightness: 0.3554410421704449
+  saturation: 0.11044484720980324
+  rhythmicContrast: 0.9754623244242687
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+github: true
+layout_spectrum: 0.5431606349333347
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b71608b0-7ef3-4f24-81aa-a6095b213d3b.png
+name: WeekendHorror
+navigation:
+  - name: Weekend Horror V - Programma
+    id: 3fdb83c1-597c-495e-81c3-55ea62c1f8c5
+    type: content
+  - name: Come Arrivare
+    id: 7d4bb2b7-9d94-4f71-8760-ecc87eccfbb8
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e045e3-a068-4515-8652-b8c1c6318a6c.ico
+title: Weekend Horror
+content: []
+description: Preparatevi al vostro ultimo weekend...
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/events/136418963448819/177190226038359/'
+    label: Facebook
+  - type: contact
+    url: 'mailto:info@weekendhorror.com'
+    label: Email
