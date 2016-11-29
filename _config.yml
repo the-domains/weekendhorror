@@ -1,32 +1,6 @@
-typography_spectrum: 0.014731563590743606
-color:
-  brandStrength: 0.8335080422144752
-  lightness: 0.3544301879698281
-  saturation: 0.11922407657322981
-  rhythmicContrast: 0.9797870295221852
-  brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-github: true
-layout_spectrum: 0.6278504354794426
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b71608b0-7ef3-4f24-81aa-a6095b213d3b.png
-name: WeekendHorror
-navigation:
-  - name: Weekend Horror V - Programma
-    id: 3fdb83c1-597c-495e-81c3-55ea62c1f8c5
-    type: content
-  - name: Come Arrivare
-    id: 7d4bb2b7-9d94-4f71-8760-ecc87eccfbb8
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e045e3-a068-4515-8652-b8c1c6318a6c.ico
 title: Weekend Horror
 content: []
-description: Preparatevi al vostro ultimo weekend...
+github: true
 purpose:
   - type: external
     url: 'https://www.facebook.com/events/136418963448819/177190226038359/'
@@ -34,3 +8,41 @@ purpose:
   - type: contact
     url: 'mailto:info@weekendhorror.com'
     label: Email
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Preparatevi al vostro ultimo weekend...
+color:
+  saturation: 0.1192240765732298
+  brandStrength: 0.8335080422144752
+  rhythmicContrast: 0.9797870295221852
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  lightness: 0.3544301879698281
+navigation:
+  - name: Weekend Horror V - Programma
+    id: 3fdb83c1-597c-495e-81c3-55ea62c1f8c5
+    type: content
+  - name: Come Arrivare
+    id: 7d4bb2b7-9d94-4f71-8760-ecc87eccfbb8
+    type: content
+name: WeekendHorror
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e045e3-a068-4515-8652-b8c1c6318a6c.ico
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b71608b0-7ef3-4f24-81aa-a6095b213d3b.png
+typography_spectrum: 0.8369176
+layout_spectrum: 0.1989247
